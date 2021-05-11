@@ -5,11 +5,11 @@ body {
 table {
   margin: auto;
   background-color: #222;
-  width: 350px;
-  max-width: 350px;
-  height: 100%;
+  width: 500px;
+  max-width: 500px;
+  height: 500px;
   text-align: center;
-  border-radius: 4px;
+  border-radius: 5px;
   padding-right: 10px;
 }
 
